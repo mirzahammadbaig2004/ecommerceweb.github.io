@@ -1,0 +1,57 @@
+body {
+    font-family: "sans-serif";
+}
+
+.carousle-caption {
+    text-align: left !important;
+}
+
+.banner-text {
+    position: absolute;
+    top: 15%;
+    left: 100px;
+}
+
+.carousel_main h1 {
+    font-size: 55px;
+}
+
+.carousel_main button {
+    font-size: 17px;
+    text-align: center;
+    padding: 7px 25px
+}
+
+.card-title {
+    font-size: 15px
+}
+
+.card-title i {
+    font-size: 20px
+}
+
+.phn-price {
+    color: rgb(11, 156, 156)
+}
+
+/* .sub_container{height:500px} */
+/* .btn_sub{padding:8px 5px;font-size:20px} */
+.banner_2 {
+    background:rgb(165, 153, 153) url(assets/images/banner\ 2.png);
+    background-size: contain;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: right;
+    width:100%;
+}
+.banner_2_content{left:250px;top:20%}
+.banner_2_content h1{font-size:70px}
+.insta_image{height:200px;width:100%}
+.link{text-decoration: none; color:black}
+.link:hover{color:rgb(11, 156, 156)}
+.cart{width:100%;top:75%;opacity:0 ;transition: 0.3s ease-in;}
+.cart:hover{opacity:100;color:white;background:black;}
+nav ul li a{transition:0.3s ease-in}
+nav ul li a:hover{color:rgb(11, 156, 156)!important;}
+nav ul li a i:hover{color:rgb(11, 156, 156)!important;}
+.icon{color:rgb(11, 156, 156)}
